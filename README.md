@@ -28,4 +28,5 @@ echo "$hashString1, $hashString2\n";
 
 #### Reference
 [1] [https://github.com/xwiz/phash](https://github.com/xwiz/phash)
+
 [2] [https://github.com/kennethrapp/phasher](https://github.com/kennethrapp/phasher)
